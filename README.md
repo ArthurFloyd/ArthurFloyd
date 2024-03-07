@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### :man_technologist: Обо мне :
 Меня зовут Артур и я Junior Frontend Developer
 
@@ -10,6 +8,8 @@
   - Нахожусь в поиске стажировки или работы. (Любой формат: гибридный/удаленный/офис)
   - Проживаю в Россия, Владивосток (Готов к релокации) 
 
+---
+
 ### :hammer_and_wrench: Навыки приобретенные за время обучения :  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -18,9 +18,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>  
 
+---
+
 ### :hammer_and_wrench: Контакты :  
 [![Telegram Badge](https://img.shields.io/badge/-t.me/thraur-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/thraur)
-
+[![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:arthurlodash@gmail.com)
 <!--
 **ArthurFloyd/ArthurFloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
