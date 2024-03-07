@@ -1,4 +1,5 @@
-### :man_technologist: Обо мне :
+### Обо мне :
+Привет
 Меня зовут Артур и я Junior Frontend Developer
 
 - Прохожу обучение в школе программирования [Хекслет](https://ru.hexlet.io)
@@ -20,7 +21,7 @@
 
 ---
 
-### :hammer_and_wrench: Контакты :  
+### :man_technologist: Контакты :  
 [![Telegram Badge](https://img.shields.io/badge/-t.me/thraur-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/thraur)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:arthurlodash@gmail.com)
 <!--
