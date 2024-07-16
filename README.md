@@ -3,11 +3,12 @@
 
 Меня зовут [Артур](https://cv.hexlet.io/ru/resumes/3469) и я Junior Frontend Developer
 
-- Прохожу обучение в школе программирования [Хекслет](https://ru.hexlet.io)
-- За время обучения закончил 3 учебных проекта:
-  - [Игры разума](https://github.com/ArthurFloyd/Brain-games)
-  - [Вычислитель отличий](https://github.com/ArthurFloyd/Gendiff)
+- Закончил обучение в школе программирования [Хекслет](https://ru.hexlet.io)
+- За время обучения реализовал 4 проекта:
+  - [Чат-слак](https://github.com/ArthurFloyd/Chat)
   - [RSS агрегатор](https://github.com/ArthurFloyd/RSS-Reader)
+  - [Вычислитель отличий](https://github.com/ArthurFloyd/Gendiff)
+  - [Игры разума](https://github.com/ArthurFloyd/Brain-games)
 - Нахожусь в поиске стажировки или работы. (Любой формат: гибридный/удаленный/офис)
 - Проживаю в Россия, Владивосток (Готов к релокации) 
 
