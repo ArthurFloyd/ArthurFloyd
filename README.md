@@ -4,6 +4,10 @@
 Меня зовут [Артур](https://cv.hexlet.io/ru/resumes/3469) и я Junior Frontend Developer
 
 - Закончил обучение в школе программирования [Хекслет](https://ru.hexlet.io)
+![Изображение][1]
+
+[1]: asset/certificate.PNG "gameplay"
+
 - За время обучения выполнил 4 проекта:
   - [Чат-слак](https://github.com/ArthurFloyd/Chatty)
   - [RSS агрегатор](https://github.com/ArthurFloyd/RSS-Reader)
