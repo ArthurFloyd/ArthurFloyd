@@ -1,26 +1,19 @@
-### Обо мне :
-👋 Привет
+### 👋 Hi
 
-Меня зовут [Артур](https://cv.hexlet.io/ru/resumes/3469) и я Junior Frontend Developer
+My name is [Arthur](https://cv.hexlet.io/ru/resumes/3469) and i'm a **Junior Frontend Developer**
 
-- Закончил обучение в школе программирования [Хекслет](https://ru.hexlet.io)
-![Изображение][1]
+- Graduated from programming school [Hexlet](achievements/certificateHexlet.PNG)
 
-[1]: asset/certificate.PNG "gameplay"
-
-- За время обучения выполнил 4 проекта:
-  - [Чат-слак](https://github.com/ArthurFloyd/Chatty)
-  - [RSS агрегатор](https://github.com/ArthurFloyd/RSS-Reader)
-  - [Вычислитель отличий](https://github.com/ArthurFloyd/Gendiff)
-  - [Игры разума](https://github.com/ArthurFloyd/Brain-games)
-- Мои pet-проекты:
-  - [Дуэль](https://github.com/ArthurFloyd/duel)
-- Нахожусь в поиске стажировки или работы. (Любой формат: гибридный/удаленный/офис)
-- Проживаю в Россия, Владивосток (Готов к релокации) 
-
+- My educational projects:
+  - [Chat](https://github.com/ArthurFloyd/Chatty)
+  - [RSS-Reader](https://github.com/ArthurFloyd/RSS-Reader)
+  - [Gendiff](https://github.com/ArthurFloyd/Gendiff)
+  - [Brain-games](https://github.com/ArthurFloyd/Brain-games)
+- My pet-projects:
+  - [Duel](https://github.com/ArthurFloyd/duel)
 ---
 
-### :hammer_and_wrench: Навыки приобретенные за время обучения :  
+### :hammer_and_wrench: Skills :  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -32,20 +25,6 @@
 
 ---
 
-### :man_technologist: Контакты :  
+### :man_technologist: Contacts :  
 [![Telegram Badge](https://img.shields.io/badge/-t.me/thraur-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/thraur)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:arthurlodash@gmail.com)
-<!--
-**ArthurFloyd/ArthurFloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
