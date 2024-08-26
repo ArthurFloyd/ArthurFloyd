@@ -2,7 +2,7 @@
 
 My name is [Arthur](https://cv.hexlet.io/ru/resumes/3469) and i'm a **Junior Frontend Developer**
 
-- Graduated from programming school [Hexlet](achievements/certificateHexlet.PNG)
+- Graduated from programming school [Hexlet](https://github.com/ArthurFloyd/ArthurFloyd/blob/main/%20achievements/certificateHexlet.PNG)
 
 - My educational projects:
   - [Chat](https://github.com/ArthurFloyd/Chatty)
