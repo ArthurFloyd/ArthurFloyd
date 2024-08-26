@@ -4,12 +4,12 @@ My name is [Arthur](https://cv.hexlet.io/ru/resumes/3469) and i'm a **Junior Fro
 
 - Graduated from programming school [Hexlet](https://github.com/ArthurFloyd/ArthurFloyd/blob/main/%20achievements/certificateHexlet.PNG)
 
-- My educational projects:
+- Educational projects:
   - [Chat](https://github.com/ArthurFloyd/Chatty)
   - [RSS-Reader](https://github.com/ArthurFloyd/RSS-Reader)
   - [Gendiff](https://github.com/ArthurFloyd/Gendiff)
   - [Brain-games](https://github.com/ArthurFloyd/Brain-games)
-- My pet-projects:
+- Pet-projects:
   - [Duel](https://github.com/ArthurFloyd/duel)
 ---
 
