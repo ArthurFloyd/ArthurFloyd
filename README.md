@@ -11,6 +11,7 @@ My name is [Arthur](https://cv.hexlet.io/ru/resumes/3469) and i'm a **Junior Fro
   - [Brain-games](https://github.com/ArthurFloyd/Brain-games)
 - Pet-projects:
   - [Duel](https://github.com/ArthurFloyd/duel)
+  - [Detective-Github](https://github.com/ArthurFloyd/Detective-Github)
 ---
 
 ### :hammer_and_wrench: Skills :  
