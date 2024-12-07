@@ -1,8 +1,9 @@
 ### 👋 Hi
 
-My name is [Arthur](https://cv.hexlet.io/ru/resumes/3469) and i'm a **Junior Frontend Developer**
+My name is [Arthur](https://cv.hexlet.io/ru/resumes/3469) and i'm a **Frontend Developer**
 
 - Graduated from programming school [Hexlet](https://github.com/ArthurFloyd/ArthurFloyd/blob/main/%20achievements/certificateHexlet.PNG)
+- Work in a company [ООО «Святая Мария»](https://ivfdv.ru/)
 
 - Educational projects:
   - [Chat](https://github.com/ArthurFloyd/Chatty)
@@ -16,9 +17,10 @@ My name is [Arthur](https://cv.hexlet.io/ru/resumes/3469) and i'm a **Junior Fro
 
 ### :hammer_and_wrench: Skills :  
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
       <img width="40" height="40" src="https://webpack.js.org/assets/icon-square-big.svg">
