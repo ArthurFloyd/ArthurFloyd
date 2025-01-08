@@ -3,7 +3,7 @@
 My name is [Arthur](https://cv.hexlet.io/ru/resumes/3469) and i'm a **Frontend Developer**
 
 - Graduated from programming school [Hexlet](https://github.com/ArthurFloyd/ArthurFloyd/blob/main/%20achievements/certificateHexlet.PNG)
-- Work in a company ["Аптека25.рф"](https://xn--25-6kcay4a7ay.xn--p1ai/)
+- Work in a company [Аптека25.рф](https://xn--25-6kcay4a7ay.xn--p1ai/)
 
 - Educational projects:
   - [Chat](https://github.com/ArthurFloyd/Chatty)
